@@ -29,4 +29,4 @@ If you want to put an image instead of a gradient you will have to modify the cs
 
 Result Page :
 
-![Alt](demo/banner_image.png)
+![Alt](demo/demo_image.png)
