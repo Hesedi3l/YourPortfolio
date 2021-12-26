@@ -4,7 +4,7 @@ Make yourself known, and show your projects with this portfolio. Add your networ
 > Demo・https://demo.creative-ressources.fr/YourPortfolio/index.html
 
 ## Overview
-![Alt](demo/banne.png)
+![Alt](demo/banner.png)
 ![Alt](demo/projects.png)
 
 ## Customize 
