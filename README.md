@@ -26,4 +26,7 @@ To change the colors of the site you must go to the file main.css as on the scre
 If you want to put an image instead of a gradient you will have to modify the css code as below. 
 
 ![Alt](demo/image.png)
+
+Result Page :
+
 ![Alt](demo/banner_image.png)
